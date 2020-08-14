@@ -1,5 +1,8 @@
 _repo: Let-s-Cook-Meat-Recipes-You-ll-Like_62804
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62804-h/images/cover.jpg
 creator:
   author:
     agent_name: National Live Stock and Meat Board
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '52018'
     url: http://www.gutenberg.org/2009/agents/52018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62804#Let-s-Cook-Meat-Recipes-You-ll-Like
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
 identifiers:
